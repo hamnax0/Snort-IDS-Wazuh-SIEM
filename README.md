@@ -3,11 +3,7 @@
 > A complete Network Intrusion Detection and SIEM integration lab simulating
 > real-world SOC operations using Snort IDS v2.9.20 and Wazuh SIEM on VMware.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamnax0/Snort-IDS-Wazuh-SIEM-Lab/main/snort-title.jpg" width="800">
-</p>
 
----
 
 **Project Overview**
 
@@ -15,17 +11,11 @@
 |---|---|
 | **Project Title** | Snort IDS + Wazuh SIEM Integration Lab |
 | **Course** | Network Security Lab |
-| **Semester** | BSCYS-3B (May 2026) |
-| **Submitted To** | Miss Mahnoor Gillani |
 | **Tools Used** | Snort v2.9.20, Wazuh SIEM, VMware, Kali Linux |
 
 ---
 
 **Lab Architecture**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamnax0/Snort-IDS-Wazuh-SIEM-Lab/main/snort-architecture.jpg" width="800">
-</p>
 
 | **Component** | **VM** | **IP Address** | **Role** |
 |---|---|---|---|
@@ -75,9 +65,7 @@ Both VMs connected via VMware NAT networking on subnet 192.168.121.0/24.
 
 **Attacks Launched from Kali Linux**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamnax0/Snort-IDS-Wazuh-SIEM-Lab/main/snort-nmap-alert.jpg" width="800">
-</p>
+
 
 | **#** | **Attack** | **Tool** | **Command** | **Purpose** |
 |---|---|---|---|---|
@@ -96,9 +84,6 @@ Both VMs connected via VMware NAT networking on subnet 192.168.121.0/24.
 
 **Wazuh Alert Classification**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamnax0/Snort-IDS-Wazuh-SIEM-Lab/main/snort-dos-alert.jpg" width="800">
-</p>
 
 | **Rule ID** | **Description** | **Level** | **Meaning** |
 |---|---|---|---|
