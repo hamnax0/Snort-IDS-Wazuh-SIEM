@@ -15,7 +15,9 @@
 |---|---|
 | **Project Title** | Snort IDS + Wazuh SIEM Integration Lab |
 | **Course** | Network Security Lab |
-
+| **Semester** | BSCYS-3B (May 2026) |
+| **Submitted To** | Miss Mahnoor Gillani |
+| **Tools Used** | Snort v2.9.20, Wazuh SIEM, VMware, Kali Linux |
 
 ---
 
